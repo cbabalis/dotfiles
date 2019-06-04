@@ -36,3 +36,7 @@ alias MVN_NO_TESTS="mvn -Dmaven.test.skip=true -DskipTests=true"
 
 load_path_file_to_path
 #unset MARMALADE_PATH
+
+
+alias idea="vim ~/Nextcloud/GTD/PERSONAL/NEXT_ACTIONS/IDEAS.txt"
+alias todo="vim ~/Nextcloud/GTD/PERSONAL/NEXT_ACTIONS/NEXT_ACTIONS.txt"
